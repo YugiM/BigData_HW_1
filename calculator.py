@@ -1,5 +1,7 @@
 from tkinter import *
 
+###Format default window size and title
+
 window = Tk()
 window.title("Simple Calculator")
 window.geometry('328x300')
