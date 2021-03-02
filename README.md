@@ -10,4 +10,6 @@ After download the file, simply click the file and run
 
 By clicking the number and sign, user can get the result number after click '=' 
 
+## Meta
 
+Yuge Ma yma156@fordham.edu
